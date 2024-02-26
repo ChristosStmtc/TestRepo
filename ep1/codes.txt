@@ -1,2 +1,0 @@
-name: ccc
-passw: 123
